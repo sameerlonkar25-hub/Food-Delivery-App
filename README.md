@@ -50,9 +50,9 @@ The primary objective of this project was to:
 
 This project was developed by a group of **4 first-year engineering students** as part of the academic **PBL (Project Based Learning)** curriculum.
 Members : 
-*Sameer Lonkar
-*Suyash Mane
-*Tanmay Raut
-*Shankar Nimbore
+Sameer Lonkar,
+Suyash Mane,
+Tanmay Raut,
+Shankar Nimbore
 
 ---
